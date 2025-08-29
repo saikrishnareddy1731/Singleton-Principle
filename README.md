@@ -182,6 +182,3 @@ Fixes:
 
 ---
 
-**Notes:**  
-- Copy and paste this file directly into `README.md` in GitHub.  
-- Make sure there are no extra leading spaces at the start of each line when pasting into the editor (leading spaces can turn lines into code blocks).
